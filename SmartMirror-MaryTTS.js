@@ -7,7 +7,7 @@
  * @see  https://github.com/NKucza/smartmirror-MaryTTS
  */
 
-Module.register('smartmirror-MaryTTS',{
+Module.register('SmartMirror-MaryTTS',{
 
 	defaults: {
 
